@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">listaFilmes</string>
+    <string name="nome_sonhe_liberdade">Um Sonho de Liberdade</string>
+    <string name="desc_sonhe_liberdade">Chronicles the experiences of a formerly successful banker as a prisoner in the gloomy jailhouse of Shawshank after being found guilty of a crime he did not commit . The film portrays the man 's unique way of dealing with his new, torturous life; along the way he befriends a number of fellow prisoners, most notably a wise long-term inmate named Red.</string>
+    <string name="nome_godfather">O Poderoso Chefão</string>
+    <string name="desc_godfather">When the aging head of a famous crime family decides to transfer his position to one of his subalterns, a series of unfortunate events start happening to the family, and a war begins between all the well-known families leading to insolence, deportation, murder and revenge, and ends with the favorable successor being finally chosen. Written by J. S. Golden</string>
+    <string name="nome_godfather_2">O Poderoso Chefão II</string>
+    <string name="desc_godfather_2">The continuing saga of the Corleone crime family tells the story of a young Vito Corleone growing up in Sicily and in 1910s New York; and follows Michael Corleone in the 1950s as he attempts to expand the family business into Las Vegas, Hollywood and Cuba.</string>
+    <string name="nome_pulp_fiction">Pulp Fiction: Tempo de Violência</string>
+    <string name="desc_pulp_fiction">Jules Winnfield (Samuel L. Jackson) and Vincent Vega (John Travolta) are two hit men who are out to retrieve a suitcase stolen from their employer, mob boss Marsellus Wallace (Ving Rhames). Wallace has also asked Vincent to take his wife Mia (Uma Thurman) out a few days later when Wallace himself will be out of town. Butch Coolidge (Bruce Willis) is an aging boxer who is paid by Wallace to lose his fight. The lives of these seemingly unrelated people are woven together comprising of a series of funny, bizarre and uncalled-for incidents. Written by Soumitra</string>
+    <string name="nome_clube_luta">Clube da Luta</string>
+    <string name="desc_clube_luta">An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.</string>
+    <string name="nome_forrest_gump">Forrest Gump: O Contador de Histórias</string>
+    <string name="desc_forrest_gump">The presidencies of Kennedy and Johnson, Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.</string>
+    <string name="nome_matrix">Matrix</string>
+    <string name="desc_matrix">A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.</string>
+    <string name="nome_vida_bela">A Vida é Bela</string>
+    <string name="desc_vida_bela">When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.</string>
 </resources>
