@@ -35,7 +35,7 @@ class ListaFilmes : AppCompatActivity() {
             getText(R.string.nome_vida_bela)
         )
 
-        val aa = ArrayAdapter(this, android.R.layout.simple_spinner_item, lstFilmes)
+        val aa = ArrayAdapter(this, android.R.layout.simple_spinner_dropdown_item, lstFilmes)
 
         spinnerFilmes.setAdapter(aa)
 
